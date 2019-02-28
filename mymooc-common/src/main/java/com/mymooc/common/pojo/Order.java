@@ -23,4 +23,5 @@ public class Order implements Serializable{
 	private Date payTime;
 	private Integer state;
 	private Integer userId;
+	private Integer price;
 }
