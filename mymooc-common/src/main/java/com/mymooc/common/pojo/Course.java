@@ -1,6 +1,7 @@
 package com.mymooc.common.pojo;
 
 import java.io.Serializable;
+import java.util.Date;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;
@@ -26,5 +27,6 @@ public class Course implements Serializable{
 	private Integer difficulty;
 	private String img;
 	private Integer price;
+	private Date createdTime;
 	
 }
