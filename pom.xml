@@ -116,5 +116,10 @@
 	<module>mymooc-common</module>
 	<module>mymooc-coursedetail</module>
 	<module>mymooc-sso</module>
+	<module>mymooc-cart</module>
+	<module>mymooc-learn</module>
+	<module>mymooc-order</module>
+	<module>mymooc-search</module>
+	<module>mymooc-usercenter</module>
 </modules>
 </project>
